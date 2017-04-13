@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+        targetNamespace="http://www.example.com/taxiStation"
+        xmlns:tns="http://www.example.com/taxiStation"
+        elementFormDefault="qualified">
+
+    <complexType name="Auto">
+        <sequence>
+            <element name="model" type="string"/>
+            <element name="regNumber" type="tns:RegNumber"/>
+            <element name="price" type="double"/>
+            <element name="rentPrice" type="double"/>
+        </sequence>
+    </complexType>
+
+    <simpleType name="RegNumber">
+        <restriction>
+            <pattern value="\d{4}[a-zA-Z]{2}[1-7]"/>
+        </restriction>
+    </simpleType>
+
+    <complexType name="Car">
+        <complexContent>
+            <extension base="tns:Auto">
+                <sequence>
+                    <element name="passCount" type="int"/>
+                    <element name="isBabySeatAvailable" type="boolean"/>
+                </sequence>
+            </extension>
+        </complexContent>
+    </complexType>
+
+    <complexType name="Minibus">
+        <complexContent>
+            <extension base="tns:Car">
+                <sequence>
+                    <element name="carrying" type="int"/>
+                </sequence>
+            </extension>
+        </complexContent>
+    </complexType>
+
+    <complexType name="Truck">
+        <complexContent>
+            <extension base="tns:Auto">
+                <sequence>
+                    <element name="carrying" type="int"/>
+                </sequence>
+            </extension>
+        </complexContent>
+    </complexType>
+
+
+    <element name="AUTO" type="tns:Auto" abstract="true"></element>
+    <element name="CAR" type="tns:Car" substitutionGroup="tns:AUTO"></element>
+    <element name="MINIBUS" type="tns:Minibus" substitutionGroup="tns:CAR"></element>
+    <element name="TRUCK" type="tns:Truck" substitutionGroup="tns:AUTO"></element>
+
+    <element name="taxiStation">
+        <complexType>
+            <sequence>
+                <element ref="tns:AUTO" minOccurs="2" maxOccurs="unbounded"/>
+            </sequence>
+        </complexType>
+    </element>
+
+</schema>

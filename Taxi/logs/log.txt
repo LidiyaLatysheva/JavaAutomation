@@ -1,0 +1,15 @@
+2017-03-28 15:05:44 [main] INFO  DOMParser - AutoCreator.createAuto: CAR is created.
+2017-03-28 15:05:44 [main] INFO  DOMParser - AutoCreator.createAuto: CAR is created.
+2017-03-28 15:05:44 [main] INFO  DOMParser - AutoCreator.createAuto: CAR is created.
+2017-03-28 15:05:44 [main] INFO  DOMParser - AutoCreator.createAuto: CAR is created.
+2017-03-28 15:05:44 [main] INFO  DOMParser - AutoCreator.createAuto: CAR is created.
+2017-03-28 15:05:44 [main] INFO  DOMParser - AutoCreator.createAuto: TRUCK is created.
+2017-03-28 15:05:44 [main] INFO  DOMParser - AutoCreator.createAuto: TRUCK is created.
+2017-03-28 15:05:44 [main] INFO  DOMParser - AutoCreator.createAuto: TRUCK is created.
+2017-03-28 15:05:44 [main] INFO  DOMParser - AutoCreator.createAuto: TRUCK is created.
+2017-03-28 15:05:44 [main] INFO  DOMParser - AutoCreator.createAuto: TRUCK is created.
+2017-03-28 15:05:44 [main] INFO  DOMParser - AutoCreator.createAuto: MINIBUS is created.
+2017-03-28 15:05:44 [main] INFO  DOMParser - AutoCreator.createAuto: MINIBUS is created.
+2017-03-28 15:05:44 [main] INFO  DOMParser - AutoCreator.createAuto: MINIBUS is created.
+2017-03-28 15:05:44 [main] INFO  DOMParser - AutoCreator.createAuto: MINIBUS is created.
+2017-03-28 15:05:44 [main] INFO  DOMParser - AutoCreator.createAuto: MINIBUS is created.

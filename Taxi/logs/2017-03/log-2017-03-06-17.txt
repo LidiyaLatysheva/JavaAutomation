@@ -1,0 +1,224 @@
+2017-03-06 17:18:31 [main] INFO  InputOutput - InputOutput.readFromFile: Reading initial data from file...
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isTruckParamsValid: Input parameters are valid for type Truck
+2017-03-06 17:18:31 [main] INFO  AutoCreator - AutoCreator.createAuto: TRUCK is created.
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isTruckParamsValid: Input parameters are valid for type Truck
+2017-03-06 17:18:31 [main] INFO  AutoCreator - AutoCreator.createAuto: TRUCK is created.
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isCarParamsValid: Input parameters are valid for type Car
+2017-03-06 17:18:31 [main] INFO  AutoCreator - AutoCreator.createAuto: CAR is created.
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isCarParamsValid: Input parameters are valid for type Car
+2017-03-06 17:18:31 [main] INFO  AutoCreator - AutoCreator.createAuto: CAR is created.
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isTruckParamsValid: Input parameters are valid for type Truck
+2017-03-06 17:18:31 [main] INFO  AutoCreator - AutoCreator.createAuto: TRUCK is created.
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isTruckParamsValid: Input parameters are valid for type Truck
+2017-03-06 17:18:31 [main] INFO  AutoCreator - AutoCreator.createAuto: TRUCK is created.
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isMinibusParamsValid: Input parameters are valid for type Minibus
+2017-03-06 17:18:31 [main] INFO  AutoCreator - AutoCreator.createAuto: MINIBUS is created.
+2017-03-06 17:18:31 [main] INFO  InputOutput - InputOutput.readFromFile: Reading initial data from file...
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isTruckParamsValid: Input parameters are valid for type Truck
+2017-03-06 17:18:31 [main] INFO  AutoCreator - AutoCreator.createAuto: TRUCK is created.
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:31 [main] DEBUG ActionValidator - ActionValidator.isTruckParamsValid: Input parameters are valid for type Truck
+2017-03-06 17:18:31 [main] INFO  AutoCreator - AutoCreator.createAuto: TRUCK is created.
+2017-03-06 17:18:44 [main] INFO  InputOutput - InputOutput.readFromFile: Reading initial data from file...
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isTruckParamsValid: Input parameters are valid for type Truck
+2017-03-06 17:18:44 [main] INFO  AutoCreator - AutoCreator.createAuto: TRUCK is created.
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isTruckParamsValid: Input parameters are valid for type Truck
+2017-03-06 17:18:44 [main] INFO  AutoCreator - AutoCreator.createAuto: TRUCK is created.
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isCarParamsValid: Input parameters are valid for type Car
+2017-03-06 17:18:44 [main] INFO  AutoCreator - AutoCreator.createAuto: CAR is created.
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isCarParamsValid: Input parameters are valid for type Car
+2017-03-06 17:18:44 [main] INFO  AutoCreator - AutoCreator.createAuto: CAR is created.
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isTruckParamsValid: Input parameters are valid for type Truck
+2017-03-06 17:18:44 [main] INFO  AutoCreator - AutoCreator.createAuto: TRUCK is created.
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isTruckParamsValid: Input parameters are valid for type Truck
+2017-03-06 17:18:44 [main] INFO  AutoCreator - AutoCreator.createAuto: TRUCK is created.
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isMinibusParamsValid: Input parameters are valid for type Minibus
+2017-03-06 17:18:44 [main] INFO  AutoCreator - AutoCreator.createAuto: MINIBUS is created.
+2017-03-06 17:18:44 [main] INFO  InputOutput - InputOutput.readFromFile: Reading initial data from file...
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isTruckParamsValid: Input parameters are valid for type Truck
+2017-03-06 17:18:44 [main] INFO  AutoCreator - AutoCreator.createAuto: TRUCK is created.
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:18:44 [main] DEBUG ActionValidator - ActionValidator.isTruckParamsValid: Input parameters are valid for type Truck
+2017-03-06 17:18:44 [main] INFO  AutoCreator - AutoCreator.createAuto: TRUCK is created.
+2017-03-06 17:19:24 [main] INFO  InputOutput - InputOutput.readFromFile: Reading initial data from file...
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isTruckParamsValid: Input parameters are valid for type Truck
+2017-03-06 17:19:25 [main] INFO  AutoCreator - AutoCreator.createAuto: TRUCK is created.
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isTruckParamsValid: Input parameters are valid for type Truck
+2017-03-06 17:19:25 [main] INFO  AutoCreator - AutoCreator.createAuto: TRUCK is created.
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isCarParamsValid: Input parameters are valid for type Car
+2017-03-06 17:19:25 [main] INFO  AutoCreator - AutoCreator.createAuto: CAR is created.
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isCarParamsValid: Input parameters are valid for type Car
+2017-03-06 17:19:25 [main] INFO  AutoCreator - AutoCreator.createAuto: CAR is created.
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isTruckParamsValid: Input parameters are valid for type Truck
+2017-03-06 17:19:25 [main] INFO  AutoCreator - AutoCreator.createAuto: TRUCK is created.
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isTruckParamsValid: Input parameters are valid for type Truck
+2017-03-06 17:19:25 [main] INFO  AutoCreator - AutoCreator.createAuto: TRUCK is created.
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isMinibusParamsValid: Input parameters are valid for type Minibus
+2017-03-06 17:19:25 [main] INFO  AutoCreator - AutoCreator.createAuto: MINIBUS is created.
+2017-03-06 17:19:25 [main] INFO  InputOutput - InputOutput.readFromFile: Reading initial data from file...
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isTruckParamsValid: Input parameters are valid for type Truck
+2017-03-06 17:19:25 [main] INFO  AutoCreator - AutoCreator.createAuto: TRUCK is created.
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:19:25 [main] DEBUG ActionValidator - ActionValidator.isTruckParamsValid: Input parameters are valid for type Truck
+2017-03-06 17:19:25 [main] INFO  AutoCreator - AutoCreator.createAuto: TRUCK is created.
+2017-03-06 17:21:58 [main] INFO  InputOutput - InputOutput.readFromFile: Reading initial data from file...
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isTruckParamsValid: Input parameters are valid for type Truck
+2017-03-06 17:21:58 [main] INFO  AutoCreator - AutoCreator.createAuto: TRUCK is created.
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isTruckParamsValid: Input parameters are valid for type Truck
+2017-03-06 17:21:58 [main] INFO  AutoCreator - AutoCreator.createAuto: TRUCK is created.
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isCarParamsValid: Input parameters are valid for type Car
+2017-03-06 17:21:58 [main] INFO  AutoCreator - AutoCreator.createAuto: CAR is created.
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isCarParamsValid: Input parameters are valid for type Car
+2017-03-06 17:21:58 [main] INFO  AutoCreator - AutoCreator.createAuto: CAR is created.
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isTruckParamsValid: Input parameters are valid for type Truck
+2017-03-06 17:21:58 [main] INFO  AutoCreator - AutoCreator.createAuto: TRUCK is created.
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isTruckParamsValid: Input parameters are valid for type Truck
+2017-03-06 17:21:58 [main] INFO  AutoCreator - AutoCreator.createAuto: TRUCK is created.
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isMinibusParamsValid: Input parameters are valid for type Minibus
+2017-03-06 17:21:58 [main] INFO  AutoCreator - AutoCreator.createAuto: MINIBUS is created.
+2017-03-06 17:21:58 [main] INFO  InputOutput - InputOutput.readFromFile: Reading initial data from file...
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isCarParamsValid: Input parameters are valid for type Car
+2017-03-06 17:21:58 [main] INFO  AutoCreator - AutoCreator.createAuto: CAR is created.
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isRegNumberValid: RegNumber format is valid.
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isAutoParamsValid: Input parameters are valid for type Auto
+2017-03-06 17:21:58 [main] DEBUG ActionValidator - ActionValidator.isCarParamsValid: Input parameters are valid for type Car
+2017-03-06 17:21:58 [main] INFO  AutoCreator - AutoCreator.createAuto: CAR is created.
