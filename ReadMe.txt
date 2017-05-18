@@ -1,4 +1,1 @@
-Task1 - Калькулятор; работа со строками и матрицами; сравнение List, Set, Map.
-Taxi - Объектная модель для заданной предметной области с последующими доработками.
-
-Note 4/13/2017: no connect to DB, only one custom exception.
+Test branch commit
